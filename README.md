@@ -1,21 +1,17 @@
 # to-do-list
 
-> A Vue.js project
+> to-do-list ( using vue-cli )
+
+## 설명
+
+> vue.js를 이용 하여 할 일 관리 목록을 구현하였습니다. 간단한 화면이여서 단일컴포넌트로 구현가능하지만 vue-cli를 활용 하는 로직을 구현하고자 하여 최소 크기의 컴포넌트로 나누어 구성하였습니다. 몇 가지의 예제를 참고하였으며, css는 아이콘 정도의 최소화만 구현하였습니다.
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 설치
 npm install
 
-# serve with hot reload at localhost:8080
+# 시작하기
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
