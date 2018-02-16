@@ -15,3 +15,14 @@ npm install
 # 시작하기
 npm run dev
 ```
+## Link
+
+"`
+https://localhost:8089
+`"
+
+## 참고자료
+>- https://joshua1988.github.io/
+>- http://book.naver.com/bookdb/book_detail.nhn?bid=13256615
+>- https://vuejstodo-aa185.firebaseapp.com/
+>- https://kr.vuejs.org/v2/examples/todomvc.html
