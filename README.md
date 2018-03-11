@@ -18,10 +18,10 @@ npm run dev
 ## Link
 
 "`
-https://localhost:0044
+https://localhost:8080
 `"
 
-## 참고자료
+## Reference
 >- https://joshua1988.github.io/
 >- http://book.naver.com/bookdb/book_detail.nhn?bid=13256615
 >- https://vuejstodo-aa185.firebaseapp.com/
